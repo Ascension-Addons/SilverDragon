@@ -1,3 +1,3 @@
-# Addon Name
+# Silver Dragon
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for Silver Dragon. Modified for Ascension.gg. 
